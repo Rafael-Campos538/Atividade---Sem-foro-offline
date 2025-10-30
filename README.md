@@ -5,7 +5,7 @@
 Para a simulação do farol utilizamos a esp32, protoboard, leds, display lcd, buzzer, resistor e jumpers. Primeiro, o sinal verde acende por alguns segundos e aparece no display “Sinal Verde”, indicando que os carros podem seguir. Depois disso, o LED verde começa a piscar mostrando uma contagem regressiva no display. Em seguida, o sinal muda para amarelo, o display mostra “Sinal Amarelo” e o LED amarelo acende por alguns segundos antes de piscar também com uma contagem regressiva. Depois o sinal muda para vermelho, o display mostra “Sinal Vermelho”, o buzzer liga e o pedestre pode atravessar. Durante o vermelho, os LEDs piscam e o display mostra a contagem regressiva até o ciclo recomeçar.
 
 Imagem do projeto
-![imagem.jpeg](imagem.jpeg)
+![/assets/imagem.jpeg](/assets/imagem.jpeg)
 
 Abaixo esta o link para o video do projeto feito na mão: [https://drive.google.com/file/d/1bczuLShUH18Ir7g6rWjlQQREcl8dIuAi/view?usp=sharing](https://drive.google.com/file/d/1bczuLShUH18Ir7g6rWjlQQREcl8dIuAi/view?usp=sharing)
 
