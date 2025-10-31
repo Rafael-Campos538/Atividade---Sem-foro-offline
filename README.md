@@ -113,14 +113,14 @@ void loop() {
 ## Componentes Utilizados
 Para a montagem do circuito, foi utilizado os seguintes componentes:
 
-Microcontrolador ESP32
-Display LCD 16x2
-LED RGB 
-LEDs
-Buzzer
-Resistores de 330 ohms
-Protoboard
-Jumpers 
+1. Microcontrolador ESP32
+2. Display LCD 16x2
+3. LED RGB 
+4. LEDs
+5. Buzzer
+6. Resistores de 330 ohms
+7. Protoboard
+8. Jumpers 
 
 ## Avaliação:
 Leonardo Lameda
