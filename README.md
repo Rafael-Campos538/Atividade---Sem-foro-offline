@@ -138,5 +138,6 @@ Todas as etapas são exibidas no display LCD, que mostra mensagens como “Sinal
 ## Avaliação:
 Leonardo Lameda
 
+Eduardo Casarini -  O projeto está completo e funcional. Todas as partes do código estão corretas e o projeto funciona normalmente. Parabéns, Rafael!!   Nota: 10
 
 
