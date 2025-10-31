@@ -122,6 +122,19 @@ Para a montagem do circuito, foi utilizado os seguintes componentes:
 7. Protoboard
 8. Jumpers 
 
+## Desenvolvimento
+
+O projeto foi montado utilizando os componentes citados anteriormente, com o microcontrolador ESP32 responsável por gerenciar todas as etapas do funcionamento do semáforo. O sistema alterna automaticamente entre os sinais destinados aos veículos (verde, amarelo e vermelho) e aos pedestres (vermelho e verde).
+
+No início do ciclo, o sinal verde dos veículos permanece aceso por aproximadamente 4 segundos, enquanto o sinal dos pedestres fica vermelho, indicando que não é seguro atravessar. Em seguida, o LED verde começa a piscar por 6 segundos, funcionando como aviso de que o sinal está prestes a mudar.
+
+Logo depois, o sinal amarelo dos veículos é ativado por 2 segundos, mantendo o pedestre ainda no vermelho. Após esse tempo, o LED amarelo pisca por mais 6 segundos, sinalizando atenção tanto para motoristas quanto para pedestres.
+
+Na sequência, o sinal vermelho dos veículos acende por 6 segundos, e o sinal verde dos pedestres é ativado, permitindo a travessia. Durante esse período, o buzzer emite um som contínuo, servindo como alerta sonoro para auxiliar pedestres. O LED verde do pedestre também pisca por 6 segundos antes que o ciclo reinicie.
+
+Todas as etapas são exibidas no display LCD, que mostra mensagens como “Sinal Verde”, “Sinal Amarelo” e “Sinal Vermelho”, além de uma contagem regressiva nos momentos de transição, indicando quanto tempo resta antes da mudança de sinal.
+
+
 ## Avaliação:
 Leonardo Lameda
 
