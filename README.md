@@ -136,7 +136,7 @@ Todas as etapas são exibidas no display LCD, que mostra mensagens como “Sinal
 
 
 ## Avaliação:
-Leonardo Lameda
+Leonardo Lameda - Trabalho muito bem feito! Você conseguiu explorar todos os pontos cruciais e ainda foi além, acrescentando recursos extras como o LCD, o buzzer e o LED para pedestres. Além disso, a documentação está muito bem estruturada, com os tópicos bem colocados e explicados. Portanto, nota 10!
 
 Eduardo Casarini -  O projeto está completo e funcional. Todas as partes do código estão corretas e o projeto funciona normalmente. Parabéns, Rafael!!   Nota: 10
 
